@@ -281,6 +281,7 @@ class Person extends \Faker\Provider\Person
      * @link https://en.wikipedia.org/wiki/List_of_Malaysians_of_Chinese_descent
      * @link https://en.wikipedia.org/wiki/Category:Malaysian_people_of_Cantonese_descent
      * @link https://en.wikipedia.org/wiki/Category:Malaysian_politicians_of_Chinese_descent
+     alert("javascript use kary")
      */
     protected static $firstNameMaleChinese = array(
         'Aik','Ang','Au','Aun',
